@@ -1,5 +1,5 @@
 <p>
-THIS APPLICATION IS JUST A BASIC SAMPLE OF LIBRARY SYSTEM.
+THIS APPLICATION IS JUST A BASIC SAMPLE OF SALES AND INVENTORY SYSTEM.
 </p>
 
 GUIDE : 
@@ -9,46 +9,3 @@ GUIDE :
 
 IMPORTANT NOTE: IF YOU ENCOUNTER ERROR WHILE OPENING THE FORM, JUST REBUILD IT AND CLOSE THE SOLUTION AND OPEN IT AGAIN.
 
-SOFTWARE FEATURES
-<br>
-<br>
-MANAGE BOOK :
-<ul>
-	<li>Book Details</li>
-	<li>Book Author</li>
-	<li>Book Category</li>
-	<li>Book Location</li>
-	<li>Policy</li>
-</ul>
-
-MANAGE BORROWER : 
-<ul>
-	<li>Borrower Details</li>
-</ul>
-
-TRANSACTIONS : 
-<ul>
-	<li>Borrow Book</li>
-	<li>Return Book</li>
-	<li>Pay Book</li>
-</ul>
-
-SECURITY SETTINGS : 
-<ul>
-	<li>User Role</li>
-	<li>User Access</li>
-	<li>User Account</li>
-</ul>
-
-UITLIY TOOL : 
-<ul>
-	<li>Database Backup</li>
-	<li>Import/Export Data</li>
-	<li>Reset Data</li>
-</ul>
-
-Reports : 
-<ul>
-	<li>Book Details</li>
-	<li>Borrower Details</li>	
-</ul>
