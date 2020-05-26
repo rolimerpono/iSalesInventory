@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_DefaultLogin>
+    <USERNAME>2xQ8DAnOW5s=</USERNAME>
+    <PASSWORD>A+Rrfg5PUs8=</PASSWORD>
+    <NAME>hPnwbwrrFxx1CmLZBL7+xg==</NAME>
+    <ROLE>z+05lfYHqBe1QWehXfvZ/ynukmncook/</ROLE>
+    <ALLOW_VOID>true</ALLOW_VOID>
+  </_DefaultLogin>
+  <DatabaseConnectionString>57X3OpXONZm+Eg1HrljguOOwOobgDiaSLjVXILONPg3N4YQDxA3EkYfoo491jq3vFbC8KOG87Z69X8X+FbthA4iuXXD897NZIHsuXXvCqjOVb08oMQH2Mg==</DatabaseConnectionString>
+  <MasterDatabaseConnectionString>57X3OpXONZm+Eg1HrljguOOwOobgDiaSLjVXILONPg3N4YQDxA3EkTxL0oPOIRGOjp2Rv10Xgn5ELTiKSYmkwJP+nsUVdItch7caWthdK3c=</MasterDatabaseConnectionString>
+</SystemConfiguration>
